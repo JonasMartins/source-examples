@@ -1,0 +1,7 @@
+project/out/
+project/src/services/comercial/configs/*yaml
+project/src/services/main/configs/*yaml
+project/src/services/auth/configs/*yaml
+.DS_Store
+*.exe
+project/cert/*.pem

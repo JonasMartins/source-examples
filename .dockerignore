@@ -1,0 +1,8 @@
+project/cert/gen-dev.sh
+project/cert/gen-prod.sh
+build.mk
+Makefile
+README.md
+.gitignore
+.git/
+.vscode/
