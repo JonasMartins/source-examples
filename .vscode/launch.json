@@ -12,5 +12,13 @@
             "program": "./project/src/files_upload/cmd",
             "args": []
         },
+        {
+            "name": "Run swagger service",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "./project/src/swagger/cmd",
+            "args": []
+        },
     ]
 }
